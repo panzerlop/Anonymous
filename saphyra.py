@@ -1,11 +1,14 @@
 # ----------------------------------------------------------------------------------------------
 # Saphyra - DDoS Tool
+# comes from chihulk BTW to the last anon - from anon 2022
 #
 # The DDoS Protocol is the most massive type of attack
 # This tool can tangodown nasa and more gov websites
 # 
 #
 # author : Anonymous , version 1.0
+# little change
+# works latest python
 # ----------------------------------------------------------------------------------------------
 import urllib
 import sys
